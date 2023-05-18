@@ -1,4 +1,4 @@
-# game_of_rapprochement_bot
+# Игра на сближение
 
 # https://t.me/game_of_rapprochement_bot 
 
